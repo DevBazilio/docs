@@ -1,0 +1,33 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Aetheris",
+  "colors": {
+    "primary": "#16A34A",
+    "light": "#07C983",
+    "dark": "#15803D"
+  },
+  "favicon": {
+    "light": "/images/Aetheris.png",
+    "dark": "/images/Frame1.png"
+  },
+  "navigation": {
+    "groups": []
+  },
+  "logo": {
+    "light": "/images/Aetheris.png",
+    "dark": "/images/Frame1.png"
+  },
+  "navbar": {
+    "primary": {
+      "type": "discord",
+      "href": "https://discord.gg/cQpMqFS5bS"
+    }
+  },
+  "contextual": {
+    "options": [
+      "copy",
+      "view"
+    ]
+  }
+}
